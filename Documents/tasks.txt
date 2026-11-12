@@ -1,0 +1,52 @@
+
+RESUME DETAILS
+
+Name: Anil Kumar
+
+Professional Summary:
+Anil Kumar is a Software Developer with 2.5 years of IT experience. He has experience in developing web applications and AI-based applications.
+
+Technical Skills:
+Programming Languages: Python, Java, C#, SQL.
+Frameworks: LangChain, Flask, Spring Boot.
+AI Technologies: Generative AI, Machine Learning, Large Language Models, Retrieval Augmented Generation (RAG).
+Vector Databases: ChromaDB, FAISS.
+Tools: Git, GitHub, VS Code, Postman.
+LLM Tools: Ollama, Qwen2.5, Hugging Face.
+
+Work Experience:
+Company: Wipro
+Role: Software Developer
+Duration: October 2024 - Present.
+
+Responsibilities:
+1. Developed and maintained web applications using Python and Java.
+2. Worked on REST API development and integration.
+3. Developed RAG-based applications using LangChain.
+4. Used ChromaDB to store and retrieve document embeddings.
+5. Integrated local LLM models using Ollama.
+6. Performed debugging and production issue resolution.
+
+Projects:
+
+Project 1: Resume Analyzer Chatbot
+Technologies: Python, LangChain, Ollama, ChromaDB.
+Description:
+Developed a Resume Analyzer chatbot using Retrieval Augmented Generation. The application loads PDF and text documents, splits documents into chunks, generates embeddings using nomic-embed-text, and stores vectors in ChromaDB. Qwen2.5 is used to generate answers based on retrieved context.
+
+Project 2: Customer Support Chatbot
+Technologies: Python, LangChain, Flask, Qwen2.5.
+Description:
+Developed a customer support chatbot that answers customer queries related to products, orders, payments, and delivery information.
+
+Education:
+Bachelor of Technology in Computer Science.
+Graduation Year: 2023.
+
+Certifications:
+1. Microsoft Azure Fundamentals.
+2. Generative AI Fundamentals.
+3. Python Programming Certification.
+
+Strengths:
+Problem Solving, Teamwork, Quick Learning, Communication.
